@@ -1,4 +1,3 @@
-# UserGuidanceBean 
-# Purpose: Placeholder for UserGuidanceBean 
- 
-# Description: [To be completed] 
+# UserGuidanceBean
+
+# Purpose: Placeholder for UserGuidanceBean

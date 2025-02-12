@@ -1,4 +1,3 @@
-# AdaptiveEvolutionBean 
-# Purpose: Placeholder for AdaptiveEvolutionBean 
- 
-# Description: [To be completed] 
+# AdaptiveEvolutionBean
+
+# Purpose: Placeholder for AdaptiveEvolutionBean

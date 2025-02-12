@@ -1,4 +1,3 @@
-# ConfidenceScoringBean 
-# Purpose: Placeholder for ConfidenceScoringBean 
- 
-# Description: [To be completed] 
+# ConfidenceScoringBean
+
+# Purpose: Placeholder for ConfidenceScoringBean

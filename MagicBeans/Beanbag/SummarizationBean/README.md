@@ -1,4 +1,3 @@
-# SummarizationBean 
-# Purpose: Placeholder for SummarizationBean 
- 
-# Description: [To be completed] 
+# SummarizationBean
+
+# Purpose: Placeholder for SummarizationBean

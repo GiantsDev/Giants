@@ -1,4 +1,3 @@
-# IncrementalRefinementBean 
-# Purpose: Placeholder for IncrementalRefinementBean 
- 
-# Description: [To be completed] 
+# IncrementalRefinementBean
+
+# Purpose: Placeholder for IncrementalRefinementBean

@@ -1,4 +1,3 @@
-# IterativeReasoningBean 
-# Purpose: Placeholder for IterativeReasoningBean 
- 
-# Description: [To be completed] 
+# IterativeReasoningBean
+
+# Purpose: Placeholder for IterativeReasoningBean

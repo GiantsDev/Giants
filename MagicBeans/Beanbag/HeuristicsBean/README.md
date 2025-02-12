@@ -1,4 +1,3 @@
-# HeuristicsBean 
-# Purpose: Placeholder for HeuristicsBean 
- 
-# Description: [To be completed] 
+# HeuristicsBean
+
+# Purpose: Placeholder for HeuristicsBean

@@ -1,4 +1,3 @@
-# MultiModalSupportBean 
-# Purpose: Placeholder for MultiModalSupportBean 
- 
-# Description: [To be completed] 
+# MultiModalSupportBean
+
+# Purpose: Placeholder for MultiModalSupportBean

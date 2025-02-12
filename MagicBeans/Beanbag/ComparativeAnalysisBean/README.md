@@ -1,4 +1,3 @@
-# ComparativeAnalysisBean 
-# Purpose: Placeholder for ComparativeAnalysisBean 
- 
-# Description: [To be completed] 
+# ComparativeAnalysisBean
+
+# Purpose: Placeholder for ComparativeAnalysisBean

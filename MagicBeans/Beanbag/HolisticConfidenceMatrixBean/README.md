@@ -1,4 +1,3 @@
-# HolisticConfidenceMatrixBean 
-# Purpose: Placeholder for HolisticConfidenceMatrixBean 
- 
-# Description: [To be completed] 
+# HolisticConfidenceMatrixBean
+
+# Purpose: Placeholder for HolisticConfidenceMatrixBean

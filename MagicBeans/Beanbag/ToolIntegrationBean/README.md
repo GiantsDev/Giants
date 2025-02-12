@@ -1,4 +1,3 @@
-# ToolIntegrationBean 
-# Purpose: Placeholder for ToolIntegrationBean 
- 
-# Description: [To be completed] 
+# ToolIntegrationBean
+
+# Purpose: Placeholder for ToolIntegrationBean

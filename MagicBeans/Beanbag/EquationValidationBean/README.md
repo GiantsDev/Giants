@@ -1,4 +1,3 @@
-# EquationValidationBean 
-# Purpose: Placeholder for EquationValidationBean 
- 
-# Description: [To be completed] 
+# EquationValidationBean
+
+# Purpose: Placeholder for EquationValidationBean

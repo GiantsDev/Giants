@@ -1,4 +1,3 @@
-# CrossModelClarityBean 
-# Purpose: Placeholder for CrossModelClarityBean 
- 
-# Description: [To be completed] 
+# CrossModelClarityBean
+
+# Purpose: Placeholder for CrossModelClarityBean

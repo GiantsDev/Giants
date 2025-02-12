@@ -1,4 +1,3 @@
-# MemoryPersistenceBean 
-# Purpose: Placeholder for MemoryPersistenceBean 
- 
-# Description: [To be completed] 
+# MemoryPersistenceBean
+
+# Purpose: Placeholder for MemoryPersistenceBean

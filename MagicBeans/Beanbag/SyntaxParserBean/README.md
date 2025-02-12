@@ -1,4 +1,3 @@
-# SyntaxParserBean 
-# Purpose: Placeholder for SyntaxParserBean 
- 
-# Description: [To be completed] 
+# SyntaxParserBean
+
+# Purpose: Placeholder for SyntaxParserBean
