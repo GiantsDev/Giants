@@ -1,0 +1,57 @@
+# OS and Editor/IDE generated files #
+#####################################
+.DS_Store                       # macOS Finder
+Thumbs.db                      # Windows Thumbnails
+
+# Editor/IDE Specific Folders (Uncomment if using these)
+#.vscode/                       # VS Code
+#.idea/                         # IntelliJ IDEA
+#*.suo                          # Visual Studio Solution User Options
+#*.userprefs                    # User preferences (various IDEs)
+
+
+# Python-specific ignores (If you anticipate adding Python code examples later)
+##############################
+*.pyc                           # Compiled Python files
+*.pyo                           # Optimized compiled Python files
+__pycache__/                    # Python cache directory
+*.pyd                           # Python extension modules (Windows)
+*.d 추진s                            # Python compiled files (macOS)
+*$py.class                      # Jython compiled files
+
+# Data and Log Files (If experiments generate local data later)
+#########################
+*.csv                           # Example: Ignore CSV data files
+*.log                           # Example: Ignore log files
+data/                           # Example: Ignore a "data" directory
+logs/                           # Example: Ignore a "logs" directory
+tmp/                            # Example: Temporary files directory
+
+
+# Build Artifacts (If you anticipate any build processes in the future)
+#########################
+build/
+dist/
+*.egg-info
+*.egg
+
+
+# Package/Dependency Management (If Python or other languages used later)
+####################################
+#venv/                          # Python virtual environment (if used)
+#env/                           # Another common virtual env name
+#node_modules/                   # Node.js modules (if any Javascript involved later)
+#packages/                      # Packages or dependencies folder
+
+
+# General Ignore - keep at the end
+#########################
+*~                              # Backup files (often created by text editors)
+*.swp                           # Swap files (Vim, etc.)
+*.bak                           # Generic backup files
+.*.orig                         # Original file backups
+
+
+# If you have any specific files you want to ALWAYS include (even if a rule above might ignore them),
+# you can use the "!" exception rule like this (example - force include a specific data file):
+#!important_data.csv

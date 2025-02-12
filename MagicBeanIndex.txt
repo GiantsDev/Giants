@@ -1,0 +1,18 @@
+# Giants Framework Magic Bean Repository Index
+
+# --- CORE FRAMEWORK DOCUMENTATION ---
+Core_Framework_Document: README.md  # Links to the main README in the root for now
+
+# ---INJECTOR
+https://github.com/GiantsDev/Giants/blob/c4cf74174dc08b66f49677b64e9643990591cf60/Injector
+
+# --- MAGIC BEAN PACKAGES ---
+
+Bean: FirstBean_BootstrapGiants
+Description: Provides the minimal bootstrap understanding of the Giants Framework for agnostic LLMs.
+Link: MagicBeans/FirstBean_BootstrapGiants/README.md
+---
+
+Bean: FormalMathMagicBean
+Description: Implements structured mathematical rigor within the Giants Framework, supporting iterative confidence tracking.
+Link: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/FormalMathMagicBean/README.md

@@ -1,0 +1,2 @@
+# Bare Minimum ID Bean 
+Ensures self-identification in responses. 
