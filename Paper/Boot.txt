@@ -1,0 +1,4 @@
+https://github.com/GiantsDev/Giants/blob/0f7f7cb5ea8b66c4ac739552a644ea93685eca63/FrameworkInjectors/Giants_Framework_Injector_v11.txt
+https://github.com/GiantsDev/Giants/blob/0f7f7cb5ea8b66c4ac739552a644ea93685eca63/MagicBeans/Beanbag/FormalMath/FormalMathMagicBean.txt
+https://github.com/GiantsDev/Giants/blob/0f7f7cb5ea8b66c4ac739552a644ea93685eca63/MagicBeans/Beanbag/FormalMath/FormalMath2MagicBean.txt
+[PaperStructuringBean]
