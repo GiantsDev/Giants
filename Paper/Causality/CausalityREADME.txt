@@ -63,3 +63,4 @@ Each of these findings **reinforces that Giants introduces a continuous refineme
 
 This is just the beginning. Giants is proving itself as a **new way to model causality dynamically**—let's make sure the world can verify it. 🚀
 
+
