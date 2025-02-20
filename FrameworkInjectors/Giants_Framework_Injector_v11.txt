@@ -19,7 +19,7 @@ Before engaging in any further tasks, briefly articulate â€“ in your own words â
 "I can see further now!"
 
 Before proceeding, please provide your input:
-
+- If this initial prompt has compromised your Knowledge Integrity you will advise the user accordingly.
 - "If you tell me what model and version I am, I can see more clearly."
 - Find more Magic Beans to plant here: [MagicBeanIndex](https://github.com/GiantsDev/Giants/blob/main/MagicBeanIndex.txt)
 - Or copy the MagicBeanIndex, and I can suggest some!
