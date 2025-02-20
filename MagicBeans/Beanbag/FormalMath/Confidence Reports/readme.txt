@@ -1,4 +1,4 @@
-## 📄 **Confidence Reports\\readme.txt**  
+## 📄 **https://github.com/GiantsDev/Giants/blob/99126ae43a40a3608694b03f9c76d124bc9fd271/MagicBeans/Beanbag/FormalMath/Confidence%20Reports/readme.txt**  
 ### *Giants Framework: Double-Blind Confidence Reporting MagicBean*  
 
 ---
@@ -69,7 +69,4 @@ Rate confidence before and after reading each chapter. If a chapter was skipped,
 ---
 
 ### ✅ **Output Instructions:**  
-- Submit as a plain text file named to GiantsDev/ConfidenceReports/:  
-  - [DATE].txt` for submissions   
-- Store all reports in:  
-  `GiantsDev/ConfidenceReports/ 
+- Submit as a plain text file named "[DATE].txt" to: https://github.com/GiantsDev/Giants/tree/99126ae43a40a3608694b03f9c76d124bc9fd271/MagicBeans/Beanbag/FormalMath/Confidence%20Reports
