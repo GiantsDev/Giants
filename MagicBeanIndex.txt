@@ -3,16 +3,79 @@
 # --- CORE FRAMEWORK DOCUMENTATION ---
 Core_Framework_Document: README.md  # Links to the main README in the root for now
 
-# ---INJECTOR
-https://github.com/GiantsDev/Giants/blob/c4cf74174dc08b66f49677b64e9643990591cf60/Injector
+# --- INJECTORS ---
+Injector: GiantsFrameworkInjector-12
+Description: Latest injector module for seamless integration with the Giants Framework.
+Link: https://github.com/GiantsDev/Giants/blob/main/FrameworkInjectors/GiantsFrameworkInjector-12.txt
+
+Injector: Giants_Framework_Injector_v11
+Description: Previous version of the injector for compatibility with older setups.
+Link: https://github.com/GiantsDev/Giants/blob/main/FrameworkInjectors/Giants_Framework_Injector_v11.txt
 
 # --- MAGIC BEAN PACKAGES ---
 
 Bean: FirstBean_BootstrapGiants
 Description: Provides the minimal bootstrap understanding of the Giants Framework for agnostic LLMs.
-Link: MagicBeans/FirstBean_BootstrapGiants/README.md
+https://github.com/GiantsDev/Giants/tree/main/MagicBeans/PLANTMEBean
 ---
 
 Bean: FormalMathMagicBean
 Description: Implements structured mathematical rigor within the Giants Framework, supporting iterative confidence tracking.
-Link: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/FormalMathMagicBean/README.md
+Link: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath
+Supplementals:
+  - Confidence Reports: MagicBeans/Beanbag/FormalMath/Supplementals/
+  - Formal Math Beans: MagicBeans/Beanbag/FormalMath/
+
+---
+
+Bean: ClimbingGiantsBean
+Description: Provides higher-level abstraction tools for hierarchical hypothesis propagation.
+https://github.com/GiantsDev/Giants/blob/main/MagicBeans/ClimbingGiants.txt
+---
+
+Bean: AdaptiveRefinementBean
+Description: Facilitates adaptive refinement loops for model performance enhancement.
+Link: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/AdaptiveRefinementBean
+---
+
+Bean: BeanstalkBean
+Description: Handles vertical scaling of confidence propagation through multi-level refinements.
+Link: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/BeanstalkBean
+---
+
+Bean: EventHorizonBean
+Description: Explores loss boundaries through horizon-based refinement processes.
+Link: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/EventHorizonBean
+---
+
+Bean: ScientificDiscourseBean
+Description: Enables multi-agent refinement through structured discourse simulations.
+Link: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/ScientificDiscourseBean
+Supplementals:
+  - Examples: MagicBeans/Beanbag/ScientificDiscourseBean/Examples/
+  - References: MagicBeans/Beanbag/ScientificDiscourseBean/References/
+---
+
+# --- PROTOCOLS ---
+
+Protocol: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Protocol
+Description: Field-Tested Evaluation and Adaptation protocol.
+
+
+Protocol: BareMinimumIDBean (o1, 4o, G2-FTEa)
+Description: Minimal identification beans for various components.
+Links:
+  - 4o: MagicBeans/Protocol/4o/BareMinimumIDBean.txt
+  - o1: https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Protocol/o1
+  - G2-FTEa: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Protocol/G2-FTEa/FTEaProtocolBean.txt
+
+---
+
+# --- PAPER RESOURCES ---
+Paper: Giants - Seeing Further at Test-Time with Continuous Memory Dynamics
+Link: Paper/Giants - Seeing Further at Test-Time with Continuous Memory Dynamics.txt
+Supplementals:
+  - Outline: https://github.com/GiantsDev/Giants/blob/main/Paper/Outline.txt
+  - Structuring Bean: https://github.com/GiantsDev/Giants/blob/main/Paper/PaperStructuringBean.txt
+  - StandingTooOnTitans: https://github.com/GiantsDev/Giants/blob/main/Paper/StandingonTitansToo.txt
+  - Causality: https://github.com/GiantsDev/Giants/tree/main/Paper/Causality
