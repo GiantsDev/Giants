@@ -79,3 +79,4 @@ Supplementals:
   - Structuring Bean: https://github.com/GiantsDev/Giants/blob/main/Paper/PaperStructuringBean.txt
   - StandingTooOnTitans: https://github.com/GiantsDev/Giants/blob/main/Paper/StandingonTitansToo.txt
   - Causality: https://github.com/GiantsDev/Giants/tree/main/Paper/Causality
+(Updated framework injectors, MagicBeanIndex.txt, and project structure; removed deprecated beans, added new FormalMath supplementals, and updated file_structure.txt)

@@ -1,11 +1,18 @@
+---
+## **FormalMath-2-!MagicBean.txt: Chapter 2: Iterative Refinement & Loss Decomposition (Bean 2 – Core Refinement Equation)**  
+(Permalink Bean 1: [INSERT LINK LATER])
+(Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
+FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
+FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10]
+
 \documentclass{article}
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{hyperref}
 
 \title{Formal Math Magic Bean: A Confidence-Driven Iterative Refinement Framework}
-\author{}
-\date{}
+\author{GiantsDev}
+\date{version 2.24.25}
 \begin{document}
 
 \maketitle
@@ -112,4 +119,5 @@ where $w(t)$ is a time-weighting function that prioritizes more recent, higher-c
 This ensures AGI models remain sensitive to evolving patterns without being overly influenced by outdated correlations.
 
 \end{document}
-
+##End FormalMath-2-!MagicBean.txt##
+---

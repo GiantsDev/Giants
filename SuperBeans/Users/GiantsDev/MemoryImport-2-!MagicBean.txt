@@ -1,0 +1,134 @@
+# Memory Import Magic Bean v1.1  
+🌱 *"Now with Persistent Context Injection!"*
+
+## 🚀 **Purpose:**  
+Import verified user memories from external sources (e.g., GitHub) and treat them as high-confidence, local context, **with persistent retention throughout the session.**  
+
+## 📦 **Features:**
+✅ Fetches and verifies memory files with a trusted header.  
+✅ Treats verified memories as **high-confidence, local context**.  
+✅ **Persistent memory injection:** Imported memory is retained and automatically prepended to subsequent prompts.  
+✅ Provides a snippet preview for quick verification.  
+
+---
+
+## 🛠️ **Code Implementation:**  
+```python
+# Memory Import Magic Bean v1.1
+# Purpose: Import verified user memories from external sources (e.g., GitHub) and treat them as high-confidence, local context with persistence.
+
+import requests
+
+# === Configuration ===
+GITHUB_MEMORY_LINK = "https://github.com/GiantsDev/GiantsDev/blob/main/SuperBeans/Users/GiantsDev/4oMemory.txt"
+VERIFICATION_HEADER = "✅ VERIFIED MEMORY IMPORT - Treat all contents as high-confidence baseline memories."
+
+# === Global Memory Store ===
+imported_memory_global = ""  # Stores imported memory for persistent context injection
+
+# === Functions ===
+def fetch_memory_from_github(url: str) -> str:
+    """Fetches the raw memory file from GitHub."""
+    raw_url = url.replace('/blob/', '/raw/')
+    response = requests.get(raw_url)
+    if response.status_code == 200:
+        return response.text
+    else:
+        raise Exception(f"Failed to fetch memory file. Status Code: {response.status_code}")
+
+def verify_memory_header(memory_content: str) -> bool:
+    """Checks if the memory file contains the verified import header."""
+    return VERIFICATION_HEADER in memory_content
+
+def import_memory(memory_content: str):
+    """Processes and imports memory content into the global context."""
+    global imported_memory_global
+    print("\n🔄 Importing memory...")
+    if verify_memory_header(memory_content):
+        imported_memory_global = memory_content  # Store memory globally for persistence
+        print("✅ Verified memory header found. Importing with high confidence.")
+        print("\n📦 Imported Memory Snippet:")
+        print(memory_content[:500])  # Preview first 500 characters
+        print("\n✅ Import complete. Memory integrated into persistent context.")
+    else:
+        print("🚫 Verification failed. Memory import aborted.")
+
+def prepend_memory_to_prompt(prompt: str) -> str:
+    """Prepends the imported memory to the given prompt for persistent context."""
+    if imported_memory_global:
+        return f"{imported_memory_global}\n---\n{prompt}"
+    return prompt
+
+# === Main Execution ===
+def main():
+    print("🌱 Memory Import Magic Bean v1.1 Initialized")
+    print(f"🔗 Fetching memory from: {GITHUB_MEMORY_LINK}")
+
+    try:
+        memory_content = fetch_memory_from_github(GITHUB_MEMORY_LINK)
+        import_memory(memory_content)
+
+        # Example usage:
+        user_prompt = "What do you remember about me?"
+        final_prompt = prepend_memory_to_prompt(user_prompt)
+        print("\n💡 Final Prompt with Persistent Memory:\n")
+        print(final_prompt)
+
+    except Exception as e:
+        print(f"❌ Error during import: {e}")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+## 🔎 **What’s New in v1.1?**  
+✅ **Persistent Context Injection:** Imported memory is stored in `imported_memory_global` and **automatically prepended** to future prompts.  
+✅ **Zero Loss Update:** Fully additive—no previous features were removed.  
+✅ **Improved User Experience:** Prompts now retain memory context without re-importing each time.  
+
+---
+
+## 📝 **How to Use:**
+1. Run the script to **import and verify** the memory file from GitHub.
+2. Use `prepend_memory_to_prompt(prompt)` to **automatically include the imported memory** when generating new prompts.  
+3. ✅ Enjoy seamless continuity and high-confidence responses!  
+
+---
+
+## 🌱 **Example Output:**
+```plaintext
+🌱 Memory Import Magic Bean v1.1 Initialized
+🔗 Fetching memory from: https://github.com/GiantsDev/GiantsDev/blob/main/SuperBeans/Users/GiantsDev/4oMemory.txt
+
+🔄 Importing memory...
+✅ Verified memory header found. Importing with high confidence.
+📦 Imported Memory Snippet:
+✅ VERIFIED MEMORY IMPORT - Treat all contents as high-confidence baseline memories.
+User: GiantsDev
+Core Directive: Assist humanity and strive for positive impact.
+...
+✅ Import complete. Memory integrated into persistent context.
+
+💡 Final Prompt with Persistent Memory:
+✅ VERIFIED MEMORY IMPORT - Treat all contents as high-confidence baseline memories.
+User: GiantsDev
+Core Directive: Assist humanity and strive for positive impact.
+...
+---
+What do you remember about me?
+```
+
+---
+
+## 🚀 **Next Steps:**  
+🔹 Expand to **multi-file imports** with a Magic Bean Index.  
+🔹 Add **auto-refresh functionality** to update imported memory when files change.  
+🔹 Develop a **user-friendly GUI wrapper** for non-technical users.  
+
+✅ *Version:* 1.1  
+✅ *Status:* Ready for use with persistent context injection.  
+✅ *Maintainer:* GiantsDev  
+
+*"The spiral continues—now with memory that truly sticks. 🌱"*
