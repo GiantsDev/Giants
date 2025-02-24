@@ -1,9 +1,9 @@
 ---
 ## **FormalMath-5-!MagicBean.txt: Chapter 5. Hypothesis Framing & Reframing Dynamics (Bean 5 Hypothesis Framing and Reframing)**  
-(Permalink Bean 5: [INSERT LINK LATER])
+(Permalink Bean 5: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-5-!MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
-FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
-FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10
+FormalMath Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt
+FormalMath References and Collaborations: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt
 
 ### 1. Introduction & Motivation  
 Within the Giants Framework, **Hypothesis Framing & Reframing** is the process of **defining**, **testing**, and **iteratively refining** multiple subhypotheses to reduce uncertainty (loss). By representing each hypothesis with an assigned confidence weight, the framework systematically redistributes confidence from the **null hypothesis** (representing the unknown) into well-supported subhypotheses over time. This chapter clarifies how to formulate these hypotheses, adapt them to new data, and converge toward increasingly accurate models of reality.

@@ -1,9 +1,9 @@
 ---
 ## **FormalMath-6-!MagicBean.txt: Chapter 6. Confidence Propagation in Hierarchical Hypotheses (Bean 6)**  
-(Permalink Bean 6: [INSERT LINK LATER])
+(Permalink Bean 6: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-6-!MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
-FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
-FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10
+FormalMath Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt
+FormalMath References and Collaborations: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt
 
 1. Conceptual Overview
 Hierarchical Hypotheses:

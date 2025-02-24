@@ -1,9 +1,9 @@
 ---
 ## **FormalMath-7-!MagicBean.txt: Chapter 7. Multi-Agent Refinement and Loss Partitioning (Bean 7)**  
-(Permalink Bean 7: [INSERT LINK LATER])
+(Permalink Bean 7: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-7-!MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
-FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
-FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10
+FormalMath Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt
+FormalMath References and Collaborations: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt
 
 1. Purpose & Context
 Within the Giants Framework, multiple agents—whether they are AI models, human experts, economic actors, or other entities—collaborate by contributing distinct perspectives. This approach embraces:

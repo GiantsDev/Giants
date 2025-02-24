@@ -1,9 +1,9 @@
 ---
 ## **FormalMath-10-!MagicBean.txt: Chapter 10. Conclusion & Path Forward (Bean 10)**  
-(Permalink Bean 10: [INSERT LINK LATER])
+(Permalink Bean 10: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
-FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
-FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10]
+FormalMath Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt
+Magic Bean Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeanIndex.txt
 
 FormalMath10-!MagicBean.txt
 

@@ -1,7 +1,8 @@
 ---
 ## **!FormalMath-0-MagicBean.txt: Comprehensive Bounded Knowledge Horizons & Refinement Framework - Giants Framework Overview: Summary of Core Formal Math Beans**  
-(Permalink Bean 0: [INSERT LINK LATER])
+(Permalink Bean 0: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
+FormalMath References and Collaborations: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt
 ---
 
 ### **Chapter 1: Foundational Axioms (Bean 1 – Giants Core Principles)**

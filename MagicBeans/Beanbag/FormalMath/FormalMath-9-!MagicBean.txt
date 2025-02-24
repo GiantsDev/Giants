@@ -1,9 +1,9 @@
 ---
 ## **FormalMath-9-!MagicBean.txt: Chapter 9. Cross-Domain Refinement Generalization (Bean 9)**  
-(Permalink Bean 9: [INSERT LINK LATER])
+(Permalink Bean 9: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-9-!MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
-FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
-FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10
+FormalMath Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt
+FormalMath References and Collaborations: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt
 
 
 1. Overview and Motivation

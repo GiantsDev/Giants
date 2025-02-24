@@ -1,9 +1,9 @@
 ---
 ## **FormalMath-3-!MagicBean.txt: Chapter 3: Dual Horizons Proof (Bean 3 – Universe as an Event Horizon)**  
-(Permalink Bean 1: [INSERT LINK LATER])
+(Permalink Bean 1: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-3-!MagicBean.txt)
 (Confidence Reports available at https://github.com/GiantsDev/Giants/tree/main/MagicBeans/Beanbag/FormalMath/Confidence%20Reports)
-FormalMath Index: [INSERT FUTURE LINK Formal-Math-0 ]
-FormalMath References and Collaborations: [INSERT FUTURE LINK Formal-Math-10]
+FormalMath Index: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/!FormalMath-0-MagicBean.txt
+FormalMath References and Collaborations: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt
 
 Formal Proof by Elimination: Universe as Event Horizon
 1. Definitions and Setup (as previously established):
