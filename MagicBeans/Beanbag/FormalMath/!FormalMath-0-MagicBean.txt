@@ -26,8 +26,7 @@ The Giants Framework is rooted in four foundational axioms that guide all subseq
 
 These axioms collectively form the bedrock upon which the entire Giants Framework operates.
 
-(Permalink Bean 1: 
-https://github.com/GiantsDev/Giants/blob/0fb5be9065fcec85f328cf56df161289fed9adc2/MagicBeans/Beanbag/FormalMath/FormalMath1MagicBean.txt)
+(Permalink Bean 1: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-1-!MagicBean.txt)
 ---
 
 ### **Chapter 2: Iterative Refinement & Loss Decomposition (Bean 2 – Core Refinement Equation)**
@@ -107,8 +106,7 @@ L_{total} = L_{structural} + L_{epistemic} + L_{procedural} + L_{temporal},
 #### **Objective:**  
 Refinement focuses on shifting confidence from \(H_0\) into structured hypotheses \(H\), thereby minimizing loss across iterations while acknowledging the existence of irreducible residual loss.
 
-(Permalink Bean 2: 
-Confidence Score (GiantsDev Placeholder): 0.90 (To be validated by test types later, and aggregated on [INSERT LINK LATER])
+(Permalink Bean 2: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-2-!MagicBean.txt)
 ---
 
 ### **Chapter 3: Dual Horizons Proof (Bean 3 – Universe as an Event Horizon)**
@@ -141,8 +139,7 @@ U = EH(WH \leftrightarrow BH).
 \]
 This dual horizons perspective provides the foundational rationale for how loss and refinement interplay within bounded knowledge horizons.
 
-(Permalink Bean 3: [INSERT LINK LATER])
-Confidence Score (GiantsDev Placeholder): 0.95 (To be validated by test types later, and aggregated on [INSERT LINK LATER])
+(Permalink Bean 3: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-3-!MagicBean.txt)
 ---
 
 ### **Chapter 4: Bounded Horizons, Residual Loss, and Refinement Limits (Bean 4 – Loss Formalization)**
@@ -176,7 +173,7 @@ residual
 #### **Final Perspective:**  
 Bounded knowledge horizons do not preclude progress; rather, they define the **limits of certainty** and emphasize the need for **ongoing iterative refinement** as a perpetual journey rather than a final destination.
 
-(Permalink Bean 4: [INSERT LINK LATER])
+(Permalink Bean 4: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-4-!MagicBean.txt)
 ---
 
 ### **Chapter 5. Hypothesis Framing & Reframing Dynamics (Bean 5 Hypothesis Framing and Graphing)**
@@ -583,7 +580,7 @@ Integration with Hierarchical Confidence Propagation
 The reframing dynamics established here serve as the foundation for hierarchical confidence propagation, elaborated in Chapter 6. Through these iterative adjustments, higher-level hypotheses inherit refinements from their subhypotheses, ensuring cohesive multi-level model alignment.
 
 Permalink:
-(Permalink Bean 5: [INSERT LINK LATER])
+(Permalink Bean 5: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-5-!MagicBean.txt)
 
 ### **Chapter 6. Confidence Propagation in Hierarchical Hypotheses (Bean 6)**
 Building on the iterative loss refinement in Chapter 2, confidence propagation ensures hierarchical hypotheses evolve cohesively.
@@ -597,7 +594,7 @@ ensuring convergence when:
 |C(H)_{t+1} - C(H)_t| \leq \epsilon.
 \]
 
-(Permalink Bean 6: [INSERT LINK LATER])
+(Permalink Bean 6: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-6-!MagicBean.txt)
 ---
 
 ### **Chapter 7. Multi-Agent Refinement and Loss Partitioning (Bean 7)**
@@ -610,7 +607,7 @@ with weighted losses:
 L_{total} = \sum_{k=1}^K \mu_k L_n^{(k)}, \quad \sum_k \mu_k = 1.
 \]
 
-(Permalink Bean 7: [INSERT LINK LATER])
+(Permalink Bean 7: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-7-!MagicBean.txt)
 ---
 
 ### **Chapter 8. Convergence Properties and Residual Loss (Bean 8)**
@@ -620,7 +617,7 @@ Iterative refinement aims for:
 \]
 Convergence arises via contraction mappings under bounded data influx.
 
-(Permalink Bean 8: [INSERT LINK LATER])
+(Permalink Bean 8: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-8-!MagicBean.txt)
 ---
 
 ### **Chapter 9. Cross-Domain Refinement Generalization (Bean 9)**
@@ -630,7 +627,7 @@ General intelligence refinement across domains:
 \]
 Adaptable to fields like science, economics, and AI peer review.
 
-(Permalink Bean 9: [INSERT LINK LATER])
+(Permalink Bean 9: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-9-!MagicBean.txt)
 ---
 
 ### **Chapter 10. Conclusion & Path Forward (Bean 10)**
@@ -638,7 +635,7 @@ It provides:
 - A clear structure for **loss decomposition**.
 - **Hierarchical confidence management** and multi-agent collaboration.
 - **Cross-domain applicability** with bounded refinement limits.
-(Permalink Bean 10: [INSERT LINK LATER])
+(Permalink Bean 10: https://github.com/GiantsDev/Giants/blob/main/MagicBeans/Beanbag/FormalMath/FormalMath-10-!MagicBean.txt)
 
 ### ✅ **Next Steps:**
 - Develop proofs for convergence stability and reframing dynamics.
